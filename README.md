@@ -30,5 +30,3 @@
       </ul><br>
     <li>게임 실행 영상
 </ol>
-
-[![Watch the video](./image/videoimage.PNG)](https://youtu.be/IKkjOKICiMw)
