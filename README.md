@@ -30,6 +30,8 @@
       선택한 사회적 거리두기 단계에 따라 거리두기를 지키지 않는 사람들을 감시하며 우수 방역지킴이가 되어보세요:)
       </ul><br>
     <li>게임 실행 영상
-      <ul><li>https://youtu.be/nsOcBtAT7Z4</ul><br>
       
 </ol>
+
+[![Watch the video](./image/videoimage.PNG)](https://youtu.be/IKkjOKICiMw)
+
