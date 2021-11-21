@@ -32,4 +32,4 @@
     <li>게임 실행 영상
       
 </ol>
-[![Watch the video](./image/video.PNG)](https://youtu.be/nsOcBtAT7Z4)
+[![Watch the video](./video.PNG)](https://youtu.be/nsOcBtAT7Z4)
