@@ -33,5 +33,5 @@
       
 </ol>
 
-[![Watch the video](./image/videoimage.PNG)](https://youtu.be/nsOcBtAT7Z4)
+[![Watch the video](./image/videoimage.PNG)](https://www.youtube.com/watch?v=nsOcBtAT7Z4)
 
