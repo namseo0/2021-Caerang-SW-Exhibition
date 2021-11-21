@@ -1,4 +1,5 @@
-# 2021 씨애랑 SW전시회 <COVI's STORY : without covid-19>
+## 2021 씨애랑 SW전시회
+# <COVI's STORY : without covid-19>
 ![COVI;s STORY POSTER](https://github.com/namseo0/2021-Caerang-SW-Exhibition/blob/main/2021_SW%EC%A0%84%EC%8B%9C%ED%9A%8C_COVI's-STORY_%ED%8F%AC%EC%8A%A4%ED%84%B0.jpg)
 ---
 #### 안녕하십니까 저희는 팀 K.K.N입니다!
