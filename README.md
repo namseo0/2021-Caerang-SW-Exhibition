@@ -29,7 +29,6 @@
       코비와 함께 코로나를 피해 달리고 백신을 획득하세요! <br>
       선택한 사회적 거리두기 단계에 따라 거리두기를 지키지 않는 사람들을 감시하며 우수 방역지킴이가 되어보세요:)
       </ul><br>
-    <li>게임 실행 영상
-      
+    <li>게임 실행 영상<br>
 </ol>
-[![Watch the video](./video.PNG)](https://youtu.be/nsOcBtAT7Z4)
+[![PLAY VIDED](http://img.youtube.com/vi/nsOcBtAT7Z4/0.jpg)](https://www.youtube.com/watch?v=nsOcBtAT7Z4)
