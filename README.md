@@ -31,4 +31,6 @@
       </ul><br>
     <li>게임 실행 영상<br>
 </ol>
+
 [![PLAY VIDED](http://img.youtube.com/vi/nsOcBtAT7Z4/0.jpg)](https://www.youtube.com/watch?v=nsOcBtAT7Z4)
+
