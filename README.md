@@ -3,7 +3,7 @@
 ![COVI;s STORY POSTER](https://github.com/namseo0/2021-Caerang-SW-Exhibition/blob/main/2021_SW%EC%A0%84%EC%8B%9C%ED%9A%8C_COVI's-STORY_%ED%8F%AC%EC%8A%A4%ED%84%B0.jpg)
 ---
 #### 안녕하십니까 저희는 팀 K.K.N입니다!
-#### 저희는 이번 2021년도 씨애랑 SW전시회 작품으로 <COVI's STORY : withcout covid-19>를 제작하게 되었습니다.
+#### 저희는 이번 2021년도 씨애랑 SW전시회 작품으로 <COVI's STORY : without covid-19>를 제작하게 되었습니다.
 #### 많은 노력과 시간으로 만들어진 프로젝트이니, 즐겁게 감상해 주시길 바랍니다 :)
 ---
 
